@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.menu-transition {
+    transition: max-height 0.3s ease-in-out, opacity 0.3s ease-in-out;
+    max-height: 0;
+    opacity: 0;
+    overflow: hidden;
+}
+
+.menu-visible {
+    max-height: 200px; /* Adjust the max-height value as needed */
+    opacity: 1;
+}
+
+body {
+    font-family: Rubik, sans-serif;
+    min-width: 480px;
+    margin: 0;
+    padding: 0;
+}
+
+.group:hover .group-hover\:text-indigo-600 {
+    color: #5a67d8; /* This is the Tailwind color for indigo-600 */
+}
+
+.group:hover .group-hover\:opacity-50 {
+    opacity: 0.5;
+}
+
+.about-image-container {
+    min-height: 65vh;
+    width: 100%;
+    background-image: url('../images/rami-wide.jpg');
+    background-size: cover;
+    background-position: 70% 40%;
+}
+
+.min-h-screen {
+    min-height: 100vh;
+  }
+  
