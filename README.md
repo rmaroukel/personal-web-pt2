@@ -40,10 +40,10 @@ Click here to view: [Personal Website:](http://fullstack-rmaroukel.rf.gd/)
 `npm run start`
 
 ## The result
-![Home](https://github.com/rmaroukel/personal-web-pt1/blob/main/src/screenshots/Home.png?raw=true)
+![Home](https://github.com/rmaroukel/personal-web-pt2/blob/main/src/screenshots/Home.png?raw=true)
 
-![About](https://github.com/rmaroukel/personal-web-pt1/blob/main/src/screenshots/About.png?raw=true)
+![About](https://github.com/rmaroukel/personal-web-pt2/blob/main/src/screenshots/About.png?raw=true)
 
-![Projects](https://github.com/rmaroukel/personal-web-pt1/blob/main/src/screenshots/Projects.png?raw=true)
+![Projects](https://github.com/rmaroukel/personal-web-pt2/blob/main/src/screenshots/Projects.png?raw=true)
 
-![Contact](https://github.com/rmaroukel/personal-web-pt1/blob/main/src/screenshots/Contact.png?raw=true)
+![Contact](https://github.com/rmaroukel/personal-web-pt2/blob/main/src/screenshots/Contact.png?raw=true)
