@@ -1,37 +1,26 @@
-# Personal Website Part 1
+# Personal Website Part 2
 Personal website created using HTML, Tailwind CSS, and Javascript.
 
 # Link to Fully Hosted Website
-Click here to view: [Personal Website Pt. 1](http://fullstack-rmaroukel.rf.gd/)
+Click here to view: [Personal Website](http://fullstack-rmaroukel.rf.gd/)
 
 # The process
-**Starting Point**
-- Started with basic HTML and CSS files (index.html, style.css)
-- Created Nav bar, body, & footer.
-- Uploaded to github as "template"
+**Copied Personal Site Part 1**
+- Created new repo
 
-**Considering Tailwind CSS**
-- Became curious about finding easier methods of implenting CSS as a component
-- Researched online and came across Tailwind
-- Reviewed tutorials and official documentation to determine useability
+**Created contact page**
+- Created new html file
+- Created new js file
 
-**Adding Tailwind CSS**
-- Implementation did not seem too daunting, so I ventured to add Tailwind to my project
-- Installed [Tailwind](https://tailwindcss.com/)
-- Added Tailwind Config file
-- Added Tailwind output.css file (custom css to override Tailwind)
+**Implemented a contact form**
+- Created inputs
+- Created a submit button
+- Stylized the form
 
-**Stylized pages & added content**
-- Implemented block rubric requirements
-
-**Added webpack to create production ready files**
-- Installed [Webpack](https://webpack.js.org/)
-- Added webpack.config.js to handle file paths and webpack plugins
-- Added postcss.config.js file to handle Tailwind css structure
-
-**Created free web hosting domain**
-- Used [infinityfree.com](https://www.infinityfree.com/) to create a hosted domain
-- Uploaded production files to FTP using [FileZilla](https://filezilla-project.org/)
+**Implemented a success page**
+- Created a success message
+- Created a visual loading bar
+- Redirects user back to home page
 
 
 ## How to Use Repository
@@ -51,8 +40,10 @@ Click here to view: [Personal Website Pt. 1](http://fullstack-rmaroukel.rf.gd/)
 `npm run start`
 
 ## The result
-![Home](https://github.com/rmaroukel/personal-web-pt1/blob/main/src/screenshots/Home.png?raw=true)
+![Home](https://github.com/rmaroukel/personal-web-pt2/blob/main/src/screenshots/Home.png?raw=true)
 
-![About](https://github.com/rmaroukel/personal-web-pt1/blob/main/src/screenshots/About.png?raw=true)
+![About](https://github.com/rmaroukel/personal-web-pt2/blob/main/src/screenshots/About.png?raw=true)
 
-![Projects](https://github.com/rmaroukel/personal-web-pt1/blob/main/src/screenshots/Projects.png?raw=true)
+![Projects](https://github.com/rmaroukel/personal-web-pt2/blob/main/src/screenshots/Projects.png?raw=true)
+
+![Contact](https://github.com/rmaroukel/personal-web-pt2/blob/main/src/screenshots/Contact.png?raw=true)
