@@ -1,6 +1,6 @@
-// //CSS Imports
-// import '../styles/input.css';
-// import '../styles/style.css';
+//CSS Imports
+import '../styles/input.css';
+import '../styles/style.css';
 
 //Console Log
 console.log("Hello World, this is my contact page.");
@@ -20,5 +20,5 @@ const submitButton = document.querySelector('#submit')
 form.addEventListener('submit', (e) => {
   submitButton.disabled = true
   e.preventDefault()
-  window.location.href = window.location.origin + '/src/success.html'
+  window.location.href = '/success.html'
 })

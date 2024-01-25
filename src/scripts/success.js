@@ -1,7 +1,6 @@
-// setTimeout(() => {
-//     console.log("Set Timeout initiated with this location:", window.location.href)
-//     window.location.href = window.location.origin + '/src'
-// }, 5000)
+//CSS Imports
+import '../styles/input.css';
+import '../styles/style.css';
 
 // Time for timeout in milliseconds
 const timeoutDuration = 5000;
@@ -21,6 +20,6 @@ const timer = setInterval(() => {
   if (elapsed >= timeoutDuration) {
     clearInterval(timer);
     //Redirect
-    window.location.href = window.location.origin + '/src';
+    window.location.href = 'index.html';
   }
 }, interval);

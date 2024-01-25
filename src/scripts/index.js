@@ -1,6 +1,6 @@
-// //CSS Imports
-// import '../styles/input.css';
-// import '../styles/style.css';
+//CSS Imports
+import '../styles/input.css';
+import '../styles/style.css';
 
 //Mobile Menu
 const mobileMenuButton = document.getElementById('mobile-menu-button');
