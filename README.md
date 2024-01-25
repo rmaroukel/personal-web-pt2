@@ -8,16 +8,16 @@ Click here to view: [Personal Website:](http://fullstack-rmaroukel.rf.gd/)
 **Copied Personal Site Part 1**
 - Created new repo
 
-- **Created contact page**
+**Created contact page**
 - Created new html file
 - Created new js file
 
-- **Implemented a contact form**
+**Implemented a contact form**
 - Created inputs
 - Created a submit button
 - Stylized the form
 
-- **Implemented a success page**
+**Implemented a success page**
 - Created a success message
 - Created a visual loading bar
 - Redirects user back to home page
