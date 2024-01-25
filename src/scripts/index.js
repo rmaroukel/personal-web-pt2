@@ -18,6 +18,8 @@ if (window.location.pathname === "/src/index.html") {
     console.log("Hello World, this is my about me page.");
   } else if (window.location.pathname === "/src/projects.html") {
     console.log("Hello World, this is my projects page.");
+  } else if (window.location.pathname === "/src/contact.html") {
+    console.log("Hello World, this is my contact page.");
   } else {
     console.log("Hello World!");
   }
