@@ -2,7 +2,7 @@
 Personal website created using HTML, Tailwind CSS, and Javascript.
 
 # Link to Fully Hosted Website
-Click here to view: [Personal Website:](http://fullstack-rmaroukel.rf.gd/)
+Click here to view: [Personal Website](http://fullstack-rmaroukel.rf.gd/)
 
 # The process
 **Copied Personal Site Part 1**
